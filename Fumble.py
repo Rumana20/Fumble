@@ -4,6 +4,7 @@ import pandas as pd
 import pickle
 from io import StringIO
 
+st.title("Home")
 
 def main():
    
@@ -25,7 +26,7 @@ import streamlit as st
 st.markdown('##')
 
 okc = pd.read_excel("D:/5th Sem/Project/Copy of User Details_Faf.xlsx",engine=(engine)
-st.title("Home")
+
 
 if __name__=='__main__':
     main() 
