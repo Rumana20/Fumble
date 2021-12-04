@@ -35,8 +35,7 @@ if __name__=='__main__':
     
 st.markdown('##')  
     
-if st.checkbox("Show data"):
-    st.write(okc)
+
   
 st.markdown('##')  
  
@@ -252,7 +251,7 @@ def rec(query_index):
   for i in indices:
     result= result.append(okc1.iloc[i,:])
   result['similarity distance']= distances.flatten()
-  return result[['name',"similarity distance","age","status","orientation","body_type","ethnicity","religion","smokes","drink","diet","essay0"]]    
+  return result[['name',"similarity distance","age"]]    
 
 st.markdown('##')
 st.markdown('##')   
