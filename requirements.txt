@@ -1,40 +1,26 @@
-
+python == 3.7.3
 blinker==1.4
 bokeh==2.4.0
-
-
-
 html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
 htmlmin==0.1.12
 hvplot==0.7.3
 idna @ file:///tmp/build/80754af9/idna_1593446292537/work
 ImageHash==4.2.1
 imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
-
-
 matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
-
 nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
-
 numpy==1.18.5
-
 pandas @ file:///C:/ci/pandas_1592833613419/work
 pandas-datareader==0.10.0
 pandas-profiling==3.0.0
-
-
 regex @ file:///C:/ci/regex_1593419644658/work
-
 scikit-image==0.16.2
 scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
 scipy @ file:///C:/ci/scipy_1592916963468/work
 seaborn==0.10.1
-
 snowballstemmer==2.0.0
-
 statsmodels==0.11.1
 streamlit==1.2.0
-
 toml @ file:///tmp/build/80754af9/toml_1592853716807/work
 sklearn.neighbors
 scipy.sparse
