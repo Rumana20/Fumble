@@ -26,7 +26,7 @@ import streamlit as st
 
 st.markdown('##')
 
-okc = pd.read_excel("Copy of User Details_Faf.xlsx.xlsx")
+okc = pd.read_excel("Copy of User Details_Faf.xlsx")
   
 
 st.title("Home")
