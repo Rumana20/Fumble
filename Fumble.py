@@ -3,6 +3,8 @@ import streamlit as st
 import pandas as pd
 import pickle
 from io import StringIO
+pip install xlrd
+import xlrd
 
 
 
